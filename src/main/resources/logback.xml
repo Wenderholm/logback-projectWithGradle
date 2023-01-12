@@ -18,7 +18,7 @@
         </encoder>
     </appender>
 
-    <logger name="mortgage.services.PrintingServiceImpl" level="info" additivity="false">
+    <logger name="pl.zajavka.mortgage.services.PrintingServiceImpl" level="info" additivity="false">
         <appender-ref ref="FILE"/>
     </logger>
 
